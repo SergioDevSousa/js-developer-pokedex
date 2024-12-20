@@ -21,6 +21,7 @@ para executar no terminal do seu vccode basta digitar 🔽
 
 ## Estrutura do Projeto
 
+```
 /js-developer-pokedex/
 │ ├── /assets/
 │ ├── /css/
@@ -32,6 +33,7 @@ para executar no terminal do seu vccode basta digitar 🔽
 │ └── pokemon-model.js
 │ ├── index.html
 └── README.md
+```
 
 ## Como usar
 
