@@ -56,3 +56,8 @@ para executar no terminal do seu vccode basta digitar 🔽
 - Melhor experiência em dispositivos móveis.
 - Acessibilidade para um público mais amplo.
 - Design responsivo e escalável.
+
+### Resultado do desafio
+
+Adicionado um modal pra mostrar delalhes do Pokemon.
+Para sair do modal você pode clicar no X ou fora do modal.
